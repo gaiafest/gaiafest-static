@@ -1,5 +1,5 @@
 # Gaia Jam Program
-On Earth Day we gather to celebrate. We'll introduce the elements of the Climate Action Platform, and we'll get to know the different parts of the festival (and each other) a little bit better. Come hangout in the WikiBar, and find out how together we can not just make some noise, but maximise our effective and collective climate action.
+On Earth Day we gather to celebrate. We'll introduce the elements of the Climate Action Platform, and we'll get to know the different parts of the festival (and each other) a little bit better. Come hangout in the WikiBar, and find out how together we can not just make some noise, but maximise our effective and collective climate action. We start tonight at 22:00 CET. Please join using the following link: [Zoom](https://us02web.zoom.us/j/6819268068)
 
 
 ![](https://i.imgur.com/Lkgjzay.jpg)
@@ -9,20 +9,19 @@ On Earth Day we gather to celebrate. We'll introduce the elements of the Climate
 Throughout the day we are inviting projects for interview. We will be mapping intentional communities, and recruiting vounteers to help with mapping communities and projects around the world involved in taking climate action.
 
 
-### Introduction to the Climate Commons 20:00 UTC)
+### Introduction to the Climate Commons (22:00 CET)
 1. GaiaFest: the climate action festival,David (setting the stage
-2. Gaiafst and Climate Action Directory - Vincent, Nate, David
-4. Climate Web: a new climate commons - Mark, David
-5. Climate Questions - Jamie
-6. Massive Wiki and the climate commons - Pete, David
+2. Gaiafst and Climate Action Directory
+4. Climate Web: a new climate commons
+5. Climate Questions
+6. Massive Wiki and the climate commons
 
 Hands-on. Breakout rooms and WikiBar
-
 
 ![](https://i.imgur.com/8kJlfVS.png)
 
 
-### Introduction to the Climate Action Platform (21:00 UTC)
+### Introduction to the Climate Action Platform (23:00 CET)
 1. Visualising Climate Action - Jerry, David
 1. Seeing the System - Christina, Jerry
 1. Quests for collective knowledge maps - MAP, Jack Park
@@ -35,10 +34,10 @@ Hands-on. Breakout rooms and WikiBar
 
 
 
-### GaiaFest: a decentralised climate action Festival (22:00 UTC)
-1. The Art of Climate Storytelling - Jerry, Jay Golden?, Chetna
-1. Visualising Gaia - Julian, David, Dylan
-1. Games for Change - Lyra, Daivd
+### GaiaFest: a decentralised climate action Festival (24:00 CET)
+1. The Art of Climate Storytelling
+1. Visualising Gaia
+1. Games for Change
 1. Governing Gaia: 100% Gaia
 1. Roadmap and Call to Action
 2. Shed Session - final song performance
