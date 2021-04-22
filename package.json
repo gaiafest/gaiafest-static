@@ -6,6 +6,7 @@
   "scripts": {
     "css-build": "node-sass --omit-source-map-url sass/mystyles.scss css/mystyles.css",
     "css-watch": "npm run css-build -- --watch",
+    "build": "showdown makehtml -i content.md -o content.html && cat page-start.html content.html page-end.html >index.html",
     "showdown": "showdown makehtml -i content.md -o content.html",
     "start": "npm run css-watch"
   },

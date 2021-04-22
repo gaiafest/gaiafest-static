@@ -1,8 +1,3 @@
----
-tags: Gaia
----
-
-
 # Gaia Jam Program
 On Earth Day we gather to celebrate. We'll introduce the elements of the Climate Action Platform, and we'll get to know the different parts of the festival (and each other) a little bit better. Come hangout in the WikiBar, and find out how together we can not just make some noise, but maximise our effective and collective climate action.
 

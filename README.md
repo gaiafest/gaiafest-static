@@ -10,6 +10,6 @@ Using `npm run <command>`:
 
 ## How To Build index.html
 
-- place your Markdown source in `content.md`
-- `npm run showdown` converts `content.md` to `content.html`
-- by hand, insert `content.md` into `index.html` between the `content.md` markers
+- place your Markdown source in `content.md` (consider connecting HackMD to the file in GitHub)
+- `npm run build` converts content.md into content.html, and cats page-start.html, content.html, and page-end.html into index.html
+
