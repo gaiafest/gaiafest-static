@@ -1,18 +1,13 @@
 # Gaia Jam Program
 On Earth Day we gather to celebrate. We'll introduce the elements of the Climate Action Platform, and we'll get to know the different parts of the festival (and each other) a little bit better. Come hangout in the WikiBar, and find out how together we can not just make some noise, but maximise our effective and collective climate action. 
 
-We start our first dress-rehearsal tonight at 22:00 CET. Please join using the following link: [Zoom](https://us02web.zoom.us/j/6819268068)
-
-
 ![](https://i.imgur.com/Lkgjzay.jpg)
 
-
 ## Schedule
-Throughout the day we are inviting projects for interview. We will be mapping intentional communities, and recruiting vounteers to help with mapping communities and projects around the world involved in taking climate action.
-
+We launch the project today with our first open "dress-rehearsal" tonight at 22:00 CET. Join us to for a sneak peak at the new platform for taking climate action, or drop into the shed and jam with Charlotte - breakouts for all tastes! Please join us from 22:00 CET at the following link: [Zoom](https://us02web.zoom.us/j/6819268068)
 
 ### Introduction to the Climate Commons (22:00 CET)
-1. GaiaFest: the climate action festival,David (setting the stage
+1. GaiaFest: the climate action festival
 2. Gaiafst and Climate Action Directory
 4. Climate Web: a new climate commons
 5. Climate Questions
@@ -22,7 +17,6 @@ Hands-on. Breakout rooms and WikiBar
 
 ![](https://i.imgur.com/8kJlfVS.png)
 
-
 ### Introduction to the Climate Action Platform (23:00 CET)
 1. Visualising Climate Action - Jerry, David
 1. Seeing the System - Christina, Jerry
@@ -31,10 +25,7 @@ Hands-on. Breakout rooms and WikiBar
 
 Hands-on. Breakout rooms and WikiBar
 
-
 ![](https://i.imgur.com/PDxMyfz.png)
-
-
 
 ### GaiaFest: a decentralised climate action Festival (24:00 CET)
 1. The Art of Climate Storytelling
@@ -45,8 +36,8 @@ Hands-on. Breakout rooms and WikiBar
 2. Shed Session - final song performance
 
 Hands-on. Breakout rooms and WikiBar
-![](https://i.imgur.com/Zu4Lgzt.jpg)
 
+![](https://i.imgur.com/Zu4Lgzt.jpg)
 
 ## Gaiafest songwriting workshop begins midday
 
@@ -55,10 +46,8 @@ Workshop open at - **20:00 UTC** with an end performance - **22:30 UTC**
 
 ![](https://i.imgur.com/ooTzN6r.jpg)
 
-
 ## Endless Jam 
 
 We are sending out a signal - a mix of spontaneously composed beats and erratic rhythms. The purpose is to alert space that its the beginnning Gaiafest's reign. Using a revolutionary cloud connected looping application we hope to ignite and collaborate with anyone who gets lost in music and Gaia.
-
 
 ![](https://i.imgur.com/oIyH4jg.png)
