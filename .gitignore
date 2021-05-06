@@ -7,3 +7,10 @@ node_modules
 # Emacs
 *~
 \#*\#
+
+# Obsidian.md
+.obsidian/*
+!.obsidian/README.md
+
+# Massive Wiki Builder
+.massivewikibuilder/output/*
